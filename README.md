@@ -16,6 +16,6 @@ A tal fine sono stati scritti i seguenti programmi:
 - un programma che permetta di condurre esperimenti su grafi casuali con dimensione 
   crescente e con probabilità di presenza di archi crescente.
 
-- descrivere infine gli esperimenti condotti in una relazione
+Il tutto è stato appositamente descritto in una relazione, compresa degli esperimenti condotti.
 
 (esercizio x07 del corso Algoritmi e Strutture dati, Unifi)
